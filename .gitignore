@@ -9,3 +9,9 @@ Debug*/Debug*\ Libs
 *.rbuistate
 *.xojo_uistate
 *.obsolete
+sd_ebay_pneuss_job copia 2.xojo_binary_project
+genericini/.DS_Store
+genericini/ebay/ebay_DE.csv
+genericini/ebay/new_data.xml
+*.zip
+.DS_Store
