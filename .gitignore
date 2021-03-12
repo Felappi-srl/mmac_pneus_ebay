@@ -14,3 +14,8 @@ genericini/
 *.zip
 .DS_Store
 .DS_Store
+.DS_Store
+loco/buddypress-it_IT.mo
+loco/buddypress-it_IT.po
+loco/buddypress.po
+.DS_Store
